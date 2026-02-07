@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Christmas Glow",
+  "description": "An interactive 3D particle experience controlled by hand gestures. Form a Christmas tree or an exploding nebula using MediaPipe hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
